@@ -1,0 +1,15 @@
+{
+    "Guid": "8EC1AF60-241F-45CC-A969-267D3E23F97F",
+    "Name": "Plugin Name",
+    "Description": "Plugin Description",
+    "Author": "",
+    "Website": "",
+    "Repository": "",
+    "Icon": "QuestionMark",
+    "Version": "1.0.0.0",
+    "Main": "Artemis.Plugins.GamebarGames.dll",
+    "AutoEnableProperties": true,
+    "RequiresAdmin": false,
+    "Platforms": "Windows,Linux,OSX",
+    "Api": "1.0.0"
+}
