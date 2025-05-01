@@ -1,15 +1,15 @@
 {
     "Guid": "8EC1AF60-241F-45CC-A969-267D3E23F97F",
-    "Name": "Plugin Name",
-    "Description": "Plugin Description",
-    "Author": "",
+    "Name": "XB Gamebar Games",
+    "Description": "Provides .exe names for Xbox Gamebar detected games.",
+    "Author": "Aytackydln",
     "Website": "",
-    "Repository": "",
+    "Repository": "https://github.com/Aytackydln/Artemis.Plugins.GamebarGames",
     "Icon": "QuestionMark",
     "Version": "1.0.0.0",
     "Main": "Artemis.Plugins.GamebarGames.dll",
     "AutoEnableProperties": true,
     "RequiresAdmin": false,
-    "Platforms": "Windows,Linux,OSX",
+    "Platforms": "Windows",
     "Api": "1.0.0"
 }
